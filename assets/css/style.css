@@ -19,7 +19,7 @@ a {
     text-decoration: none;
 }
 
-
+/* HEADER STYLES */
 
 .header {
     padding: 20px;
@@ -53,6 +53,8 @@ a {
     display: inline-block;
     margin-left: 25px;
 }
+
+
 
 .hero {
     height: 800px;
