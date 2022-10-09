@@ -4,9 +4,22 @@
     margin: 0;
 }
 
+/* GENERAL STYLES */
+
 body {
     background-color: #d9dcd6;
 }
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
 
 .header {
     padding: 20px;
@@ -39,15 +52,6 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 .hero {
